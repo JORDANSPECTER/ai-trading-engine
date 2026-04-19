@@ -1,0 +1,8 @@
+{
+  "symbol": "QQQ",
+  "direction": "CALL",
+  "entry_price": "1.25",
+  "contracts": "2",
+  "status": "OPEN",
+  "last_trade_time_utc": "2026-04-19 13:45:00 UTC"
+}

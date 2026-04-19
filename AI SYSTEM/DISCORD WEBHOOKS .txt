@@ -1,0 +1,28 @@
+﻿AI EXECUTION ALERT 
+
+
+https://discord.com/api/webhooks/1494042156069949533/sxnwJnv036sXgcMy4vWnz1lFuK_hmi4p7OJk1Mbuaa83azTq9WugFPAPMMpWf1at21Wu
+
+
+AI REASONING ALERT 
+
+
+https://discord.com/api/webhooks/1494042287922221066/laHnBsbfc7oWChSoBK4ib7vZb_5q11U4y5hbsIR3-WijSHaVUivgEn_hT-gCnlUv_L6o
+
+
+AI PERFORMANCE ALERT 
+
+
+https://discord.com/api/webhooks/1494042421586034708/FaNkhYrspt3XaYB5I7_O8L5wChWFsR4wyTbZPHGZrPEPjT1IlSmU44C0Hq3fYCucj6tx
+
+
+AI SYSTEM STATUS
+
+
+https://discord.com/api/webhooks/1494042596648030259/W8WGxbNdSDgRQPngVjK5GN9tzQFtLIMPGVyjKu2prHQ1M8KWcZHGeyfEGd6mCIgjRM73
+
+
+AI DARK POOL ALERT 
+
+
+https://discord.com/api/webhooks/1494047065876070611/L11-lVK2o_dvqRx9shjhcWbrCq0KyXKZvJ0OiE-W_AxUliAZhgjQXl11JCajaYt0OFyf

@@ -1,0 +1,11 @@
+{
+  "bot_paused": false,
+  "kill_switch": true,
+  "flatten_requested": true,
+  "armed": true,
+  "mode": "paper",
+  "last_command": "/debugstate",
+  "last_command_time_utc": "2026-04-19 01:51:17 UTC",
+  "last_command_from": "Jordan Bias (8661143355)",
+  "notes": "raw state requested"
+}
