@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+desktop.ini
+bot.lock
+control_state.json
+pnl_snapshot.json
+trade_status.json
